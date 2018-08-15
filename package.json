@@ -1,11 +1,11 @@
 {
-    "name"        : "Pine",
-    "version"     : "0.0.1",
-    "description" : "Theme for Ghost",
-    "author"      : "Sasha Novyk",
-    "homepage"    : "https://github.com/navix/pine-ghost-theme",
-	"license"     : "MIT",
-	"config": {
-		"posts_per_page": 10
-	}
+  "name": "pine",
+  "version": "0.0.2",
+  "description": "Pine — clear theme for Ghost",
+  "author": "Sasha Novyk",
+  "homepage": "https://github.com/navix/pine-ghost-theme",
+  "license": "MIT",
+  "config": {
+    "posts_per_page": 10
+  }
 }
